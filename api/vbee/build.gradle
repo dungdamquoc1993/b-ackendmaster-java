@@ -1,0 +1,38 @@
+
+plugins {
+    id 'java'
+}
+
+group 'com.vingame'
+version '1.0'
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+javadoc.options.encoding = 'UTF-8'
+sourceCompatibility = 1.8
+//buildDir = "../../../dist/build"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile project(':VinPlayUserCore')
+    compile project(':VinPlayCardLib')
+	implementation 'com.google.code.gson:gson:2.9.0'
+    compile project(':VinPlayDAL')
+    compile fileTree(include: ['*.jar'], dir: '../../libs')
+}
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+javadoc.options.encoding = 'UTF-8'
+
+task copyJar(type: Copy) {
+    from configurations.compile {
+        include 'VinPlayUserCore*.jar', 'VinPlayCardLib*.jar', "VinPlayDAL*.jar"
+    }
+    into 'libs/'
+}
+
+build.dependsOn copyJar

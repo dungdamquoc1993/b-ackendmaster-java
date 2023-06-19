@@ -1,0 +1,15 @@
+Feb 19, 2023 5:46:28 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is STARTING
+Feb 19, 2023 5:46:28 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is STARTED
+Feb 19, 2023 5:46:29 PM com.hazelcast.client.spi.impl.ClientMembershipListener
+INFO: 
+
+Members [1] {
+	Member [127.0.0.1]:5701
+}
+
+Feb 19, 2023 5:46:29 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is CLIENT_CONNECTED
+log4j:WARN No appenders could be found for logger (org.mongodb.driver.cluster).
+log4j:WARN Please initialize the log4j system properly.

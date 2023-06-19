@@ -1,0 +1,114 @@
+1 <-> com.vinplay.api.processors.QuickRegisterProcessor
+2 <-> com.vinplay.api.processors.LoginTokenProcessor
+3 <-> com.vinplay.api.processors.LoginProcessor
+4 <-> com.vinplay.api.processors.LoginWithOTPProcessor
+5 <-> com.vinplay.api.processors.UpdateNicknameProcesscor
+6 <-> com.vinplay.api.processors.GetAppConfigProcesscor
+8 <-> com.vinplay.api.processors.LoginAppOtpProcessor
+9 <-> com.vinplay.api.processors.GetTimeServerProccessor
+10 <-> com.vinplay.api.processors.GetConfigAdminProcessor
+13 <-> com.vinplay.api.processors.gamebai.GetListPokerTourProcessor
+14 <-> com.vinplay.api.processors.gamebai.GetPokerTourDetailProcessor
+15 <-> com.vinplay.api.processors.gamebai.GetPokerTicketProcessor
+16 <-> com.vinplay.api.processors.otp.GetOtpProcessor
+17 <-> com.vinplay.api.processors.LoginByTokenProcessor
+18 <-> com.vinplay.api.processors.CheckAgencyCodeProcessor
+19 <-> com.vinplay.api.processors.giftCode.GiftCodeProcessor
+20 <-> com.vinplay.api.processors.events.GetEventProcessor
+21 <-> com.vinplay.api.processors.events.BuyEventMoonProcessor
+100 <-> com.vinplay.api.processors.minigame.LichSuGiaoDichTXProcessor
+101 <-> com.vinplay.api.processors.minigame.TopWinTXProcessor
+102 <-> com.vinplay.api.processors.minigame.ChiTietPhienTXProcessor
+103 <-> com.vinplay.api.processors.minigame.TopThanhDuProcessor
+105 <-> com.vinplay.api.processors.minigame.LSGDMiniPokerProcessor
+106 <-> com.vinplay.api.processors.minigame.VinhDanhMiniPokerProcessor
+107 <-> com.vinplay.api.processors.minigame.LSGDCaoThapProcessor
+108 <-> com.vinplay.api.processors.minigame.VinhDanhCaoThapProcessor
+109 <-> com.vinplay.api.processors.minigame.TopCaoThapProcessor
+110 <-> com.vinplay.api.processors.gamebai.GetLogNoHuGameBaiProcessor
+111 <-> com.vinplay.api.processors.gamebai.GetConfigHuGameBaiProcessor
+120 <-> com.vinplay.api.processors.minigame.TopBauCuaProcessor
+121 <-> com.vinplay.api.processors.minigame.LSGDBauCuaProcessor
+122 <-> com.vinplay.api.processors.minigame.TopToiChonCaProcessor
+123 <-> com.vinplay.api.processors.gamebai.TopCaoThuProcessor
+124 <-> com.vinplay.api.processors.security.CaptchaProcessor
+125 <-> com.vinplay.api.processors.security.UpdateAvatarProcessor
+126 <-> com.vinplay.api.processors.vippoint.GetVippointProcessor
+127 <-> com.vinplay.api.processors.security.ForgetPasswordProcessor
+128 <-> com.vinplay.api.processors.security.ForgetPasswordOtpProcessor
+129 <-> com.vinplay.api.processors.GetGameCommonProcessor
+130 <-> com.vinplay.api.processors.GetBillingProcessor
+133 <-> com.vinplay.api.processors.security.ForgetPasswordEmailProcessor
+134 <-> com.vinplay.api.processors.minigame.LSGDPokeGoProcessor
+135 <-> com.vinplay.api.processors.minigame.TopPokeGoProcessor
+136 <-> com.vinplay.api.processors.slot.TopKhoBauProcessor
+137 <-> com.vinplay.api.processors.slot.LSGDSlotProcessor
+138 <-> com.vinplay.api.processors.slot.LSNoHuProcessor
+139 <-> com.vinplay.api.processors.gamebai.LSTLMNProcessor
+140 <-> com.vinplay.api.processors.minigame.LSXDProcessor
+141 <-> com.vinplay.api.processors.minigame.LSGDGalaxyProcessor
+142 <-> com.vinplay.api.processors.minigame.TopGalaxyProcessor
+201 <-> com.vinplay.api.processors.minigame.LuckyHistoryProcesscor
+301 <-> com.vinplay.api.processors.HistoryTransactionLogProcessor
+302 <-> com.vinplay.api.processors.GetLogMoneyUserProcessor
+401 <-> com.vinplay.api.processors.GetListAgentProcessor
+402 <-> com.vinplay.api.processors.ListMailBoxProcessor
+403 <-> com.vinplay.api.processors.DeleteMailBoxProcessor
+404 <-> com.vinplay.api.processors.UpdateStatusMailProcessor
+405 <-> com.vinplay.api.processors.ListMailBoxNewProcessor
+406 <-> com.vinplay.api.processors.CountMailStatusProcessor
+501 <-> com.vinplay.api.processors.vippoint.GetEventVPMapProcessor
+502 <-> com.vinplay.api.processors.vippoint.GetEventVPTopIntelProcessor
+503 <-> com.vinplay.api.processors.vippoint.GetEventVPTopStrongProcessor
+601 <-> com.vinplay.api.processors.gamebai.TopGameTourProcessor
+602 <-> com.vinplay.api.processors.gamebai.LogGameTourProcessor
+2000 <-> com.vinplay.api.processors.Set2AFProcessor
+2002 <-> com.vinplay.api.processors.GetPaymentConfigProcessor
+2003 <-> com.vinplay.api.processors.payment.DepositRequestUIProcessor
+2004 <-> com.vinplay.api.processors.payment.CreateDepositProcessor
+2006 <-> com.vinplay.api.processors.DepositHistoryProcessor
+2007 <-> com.vinplay.api.processors.payment.InsertOrUpdateBankProcessor
+2008 <-> com.vinplay.api.processors.payment.BankSearchProcessor
+2009 <-> com.vinplay.api.processors.payment.PaymentStatusProcessor
+2010 <-> com.vinplay.api.processors.payment.WithdrawRequestUIProcessor
+20101 <-> com.vinplay.api.processors.payment.CreateWithdrawProcessor
+2011 <-> com.vinplay.api.processors.payment.GetListBankProcessor
+2013 <-> com.vinplay.api.processors.VerifyPhoneNumberProcessor
+2014 <-> com.vinplay.api.processors.payment.GetBanksOneClickPayProcessor
+2015 <-> com.vinplay.api.processors.ReceiveBonusProcessor
+2016 <-> com.vinplay.api.processors.DepositHistory4UserplayProcessor
+2020 <-> com.vinplay.api.processors.banner.ShowListBannerProcessor
+2021 <-> com.vinplay.api.processors.shotfish.Login
+2022 <-> com.vinplay.api.processors.shotfish.Deposit
+2023 <-> com.vinplay.api.processors.shotfish.Withdraw
+2024 <-> com.vinplay.api.processors.shotfish.CheckOrderStatus
+2025 <-> com.vinplay.api.processors.shotfish.CheckUserBalance
+2026 <-> com.vinplay.api.processors.shotfish.CheckUserInGame
+2027 <-> com.vinplay.api.processors.shotfish.History
+2028 <-> com.vinplay.api.processors.UpdatePhoneNumberProcessor
+2029 <-> com.vinplay.api.processors.hoantra.CalculateDataHoanTraProcessor
+2030 <-> com.vinplay.api.processors.hoantra.SendDataHoanTraProcessor
+2031 <-> com.vinplay.api.processors.attendance.AttendanceProcessor
+2032 <-> com.vinplay.api.processors.attendance.HistoryProcessor
+2033 <-> com.vinplay.api.processors.payment.DepositBySCRequestUIProcessor
+20331 <-> com.vinplay.api.processors.SearchAgentBankProcessor
+2034 <-> com.vinplay.api.processors.SearchAgentProcessor
+2036 <-> com.vinplay.api.processors.events.LuckyMoneyEventProcessor
+2037 <-> com.vinplay.api.processors.ConfigGameStatusProcessor
+2037 <-> com.vinplay.api.processors.wages.ReceivedMoneyProcessor
+2038 <-> com.vinplay.api.processors.wages.HistoryUserWagesProcessor
+2039 <-> com.vinplay.api.processors.wages.SearchMemberProcessor
+2040 <-> com.vinplay.api.processors.wages.UpdateNicknameInviteProcessor
+Feb 19, 2023 5:46:33 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is STARTING
+Feb 19, 2023 5:46:33 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is STARTED
+Feb 19, 2023 5:46:33 PM com.hazelcast.client.spi.impl.ClientMembershipListener
+INFO: 
+
+Members [1] {
+	Member [127.0.0.1]:5701
+}
+
+Feb 19, 2023 5:46:33 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is CLIENT_CONNECTED

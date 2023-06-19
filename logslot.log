@@ -1,0 +1,503 @@
+log4j:WARN No such property [datePattern] in org.apache.log4j.RollingFileAppender.
+log4j:WARN No such property [datePattern] in org.apache.log4j.RollingFileAppender.
+log4j:WARN No such property [datePattern] in org.apache.log4j.RollingFileAppender.
+log4j:WARN No such property [datePattern] in org.apache.log4j.RollingFileAppender.
+log4j:WARN No such property [datePattern] in org.apache.log4j.RollingFileAppender.
+log4j:WARN No such property [datePattern] in org.apache.log4j.RollingFileAppender.
+17:46:51,548 INFO  [main] server.BitZeroServer - Boot sequence starts...
+17:46:51,942 INFO  [main] managers.BZBannedUserStorage - BanUserStorage initialized
+17:46:51,970 INFO  [main] managers.BZBannedUserManager - BanUser data loaded: 0 records.
+Feb 19, 2023 5:46:52 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is STARTING
+Feb 19, 2023 5:46:52 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is STARTED
+Feb 19, 2023 5:46:52 PM com.hazelcast.client.spi.impl.ClientMembershipListener
+INFO: 
+
+Members [1] {
+	Member [127.0.0.1]:5701
+}
+
+Feb 19, 2023 5:46:52 PM com.hazelcast.core.LifecycleService
+INFO: HazelcastClient[hz.client_0_dev][3.6.4] is CLIENT_CONNECTED
+log4j:WARN No appenders could be found for logger (org.mongodb.driver.cluster).
+log4j:WARN Please initialize the log4j system properly.
+17:46:54,760 DEBUG [main] debug -  TOTAL BOTS: 550
+17:46:55,809 INFO  [main] Extensions - {null}: game.modules.slot.HallSlotModule initilazion 
+17:46:55,819 INFO  [main] Extensions - {null}: game.modules.slot.BenleyModule initilazion 
+17:46:55,821 DEBUG [main] debug -  BENLEY POTS: 636791,5171076,51211157,0,0,0,0,0
+17:46:55,822 DEBUG [main] debug -  BENLEY: 25225,66150,1629600,0,0,0,0,0
+17:46:55,823 DEBUG [main] debug -  Slot11IconWild FUNDS JACKPOT: -1066666,75100,-60814400
+17:46:55,824 DEBUG [main] debug -  Slot11IconWild FUNDS Minigame: 6425,37550,207200
+17:46:55,824 DEBUG [main] debug -  Slot11IconWild TIME JACKPOT: 1676808744,1676806340,1676858201
+17:46:56,065 DEBUG [main] debug -  INIT BENLEY DONE
+17:46:56,226 DEBUG [main] debug -  START BENLEY REFERENCE ID= 0
+17:46:56,238 DEBUG [main] debug -  BENLEY Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,242 INFO  [main] Extensions - {null}: game.modules.slot.SpartanModule initilazion 
+17:46:56,243 DEBUG [main] debug -  Spartan POTS: 563438,5432193,25672825,51221421
+17:46:56,246 DEBUG [main] debug -  Spartan: 12334,405630,0,2807000
+17:46:56,248 DEBUG [main] debug -  Slot11IconWild FUNDS JACKPOT: 54876,5735320,0,-239723565
+17:46:56,249 DEBUG [main] debug -  Slot11IconWild FUNDS Minigame: 2238,92660,37500,4109000
+17:46:56,257 DEBUG [main] debug -  Slot11IconWild TIME JACKPOT: 1676805303,1676806916,0,1676813816
+17:46:56,354 DEBUG [main] debug -  INIT Spartan DONE
+17:46:56,382 DEBUG [main] debug -  START Spartan REFERENCE ID= 0
+17:46:56,386 DEBUG [main] debug -  Spartan Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,389 INFO  [main] Extensions - {null}: game.modules.slot.ChiemTinhModule initilazion 
+17:46:56,395 DEBUG [main] debug -  CHIEMTINH POTS: 510674,5443358,51221886,0,0,0
+17:46:56,401 DEBUG [main] debug -  CHIEMTINH: 27480,202000,1570000,50000000
+17:46:56,404 DEBUG [main] debug -  Slot11IconWild FUNDS JACKPOT: 181720,128000,4600000
+17:46:56,406 DEBUG [main] debug -  Slot11IconWild FUNDS Minigame: 9060,24000,2300000
+17:46:56,407 DEBUG [main] debug -  Slot11IconWild TIME JACKPOT: 1676805405,1676819029,1676863885
+17:46:56,457 DEBUG [main] debug -  INIT CHIEMTINH DONE
+17:46:56,463 DEBUG [main] debug -  START CHIEMTINH REFERENCE ID= 7
+17:46:56,465 DEBUG [main] debug -  CHIEMTINH Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,468 INFO  [main] Extensions - {null}: game.modules.slot.BikiniModule initilazion 
+17:46:56,470 DEBUG [main] debug -  BIKINI POTS: 636596,5445138,51216681
+17:46:56,471 DEBUG [main] debug -  BIKINI: 31227,108430,1067500
+17:46:56,471 DEBUG [main] debug -  Slot11IconWild FUNDS JACKPOT: 763151,-24980,-91507800
+17:46:56,472 DEBUG [main] debug -  Slot11IconWild FUNDS Minigame: 46139,-12490,1123900
+17:46:56,479 DEBUG [main] debug -  Slot11IconWild TIME JACKPOT: 1676803826,1676810300,1676859285
+17:46:56,510 DEBUG [main] debug -  INIT BIKINI DONE
+17:46:56,519 DEBUG [main] debug -  START BIKINI REFERENCE ID= 107
+17:46:56,525 DEBUG [main] debug -  BIKINI Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,530 INFO  [main] Extensions - {null}: game.modules.slot.RangeRoverModule initilazion 
+17:46:56,535 DEBUG [main] debug -  RANGE_ROVER POTS: 635116,5439546,101751,0,0,0,17324289,0
+17:46:56,542 DEBUG [main] debug -  RANGE_ROVER FUNDS: 0,455000,4464000,0,0,0,0,0
+17:46:56,543 DEBUG [main] debug -  Slot7IconWild FUNDS JACKPOT: 0,5000,0,48000
+17:46:56,544 DEBUG [main] debug -  Slot7IconWild FUNDS Minigame: 0,5000,0,48000
+17:46:56,545 DEBUG [main] debug -  Slot7IconWild TIME JACKPOT: 1676806757,1676806862,0,1676845853
+17:46:56,608 DEBUG [main] debug -  INIT RANGE_ROVER DONE
+17:46:56,610 DEBUG [main] debug -  START RANGE_ROVER REFERENCE ID= 0
+17:46:56,613 DEBUG [main] debug -  RANGE_ROVER Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,616 INFO  [main] Extensions - {null}: game.modules.slot.AuditionModule initilazion 
+17:46:56,619 DEBUG [main] debug -  Audition POTS: 561035,5435656,0,51226367
+17:46:56,620 DEBUG [main] debug -  Audition FUNDS: 69905,372100,0,5920000
+17:46:56,621 DEBUG [main] debug -  Slot7IconWild FUNDS JACKPOT: 77728,49400,0,656000
+17:46:56,622 DEBUG [main] debug -  Slot7IconWild FUNDS Minigame: 43885,24700,0,600000
+17:46:56,623 DEBUG [main] debug -  Slot7IconWild TIME JACKPOT: 1676808594,1676806881,0,1676809188
+17:46:56,673 DEBUG [main] debug -  INIT Audition DONE
+17:46:56,675 DEBUG [main] debug -  START Audition REFERENCE ID= 0
+17:46:56,680 DEBUG [main] debug -  Audition Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,683 INFO  [main] Extensions - {null}: game.modules.slot.MayBachModule initilazion 
+17:46:56,685 DEBUG [main] debug -  MAYBACHPOTS: 528547,5434380,51233070,0,0,0,0,0
+17:46:56,686 DEBUG [main] debug -  MAYBACH: 15950,0,1625000,0,0,0,0,0
+17:46:56,687 DEBUG [main] debug -  Slot9Icon FUNDS JACKPOT: 26950,0,13745000
+17:46:56,687 DEBUG [main] debug -  Slot9Icon FUNDS Minigame: 13475,0,3172500
+17:46:56,689 DEBUG [main] debug -  Slot9Icon TIME JACKPOT: 1676808760,1676805519,1676874936
+17:46:56,733 DEBUG [main] debug -  INIT MAYBACH DONE
+17:46:56,741 DEBUG [main] debug -  START MAYBACH REFERENCE ID= 0
+17:46:56,744 DEBUG [main] debug -  MAYBACH Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,748 INFO  [main] Extensions - {null}: game.modules.slot.RollRoyModule initilazion 
+17:46:56,749 DEBUG [main] debug -  ROLL_ROYE POTS: 637581,5034750,51219624,0,0,0,0,0
+17:46:56,750 DEBUG [main] debug -  ROLL_ROYE FUNDS: 53000,282100,260000,0,0,0,0,0
+17:46:56,751 DEBUG [main] debug -  Slot7Icon FUNDS JACKPOT: 222960,27980,64000
+17:46:56,752 DEBUG [main] debug -  Slot7Icon FUNDS Minigame: 15200,69950,160000
+17:46:56,754 DEBUG [main] debug -  Slot7Icon TIME JACKPOT: 1676807370,1676806092,1676828805
+17:46:56,813 DEBUG [main] debug -  INIT ROLL_ROYE DONE
+17:46:56,820 DEBUG [main] debug -  START ROLL_ROYE REFERENCE ID= 22
+17:46:56,830 DEBUG [main] debug -  ROLL_ROYE Ngay X2: 20/02/2023, remain time = 63783
+17:46:56,834 INFO  [main] Extensions - {null}: game.modules.slot.TamHungModule initilazion 
+17:46:56,836 DEBUG [main] debug -  TAMHUNG POTS: 636187,5442295,51197608,0,0,0,0,0
+17:46:56,837 DEBUG [main] debug -  TAMHUNG FUNDS: 18390,457700,8350000,0,0,0,0,0
+17:46:56,838 DEBUG [main] debug -  Slot7Icon FUNDS JACKPOT: 9682,9260,696000
+17:46:56,839 DEBUG [main] debug -  Slot7Icon FUNDS Minigame: 3805,88150,700000
+17:46:56,839 DEBUG [main] debug -  Slot7Icon TIME JACKPOT: 1676809086,1676803585,1676853831
+17:46:56,874 DEBUG [main] debug -  INIT TAMHUNG DONE
+17:46:56,877 DEBUG [main] debug -  START TAMHUNG REFERENCE ID= 0
+17:46:56,888 DEBUG [main] debug -  TAMHUNG Ngay X2: 20/02/2023, remain time = 63783
+17:46:57,448 INFO  [main] debug - Websocket Using Fixed Thread Pool
+17:46:57,545 INFO  [main] debug - WebSocketService started: 127.0.0.1:1844
+17:46:57,545 INFO  [main] debug - Websocket Using Fixed Thread Pool
+17:46:57,553 INFO  [main] debug - WebSocketService SSL started: 127.0.0.1:1845
+17:46:57,560 INFO  [main] server.BitZeroServer - Listening Sockets: { 127.0.0.1:1843, TCP } { 127.0.0.1:1845 (SSL) (WebSocket) }
+17:46:57,562 INFO  [main] server.BitZeroServer - BitZeroServer Max (alpha RC-READY!
+17:46:57,562 DEBUG [main] core.BitZeroEngine - START IN BITREZEO ENGINE ** 
+17:46:57,562 DEBUG [main] server.BitZeroServer - START ENGINE SERVER ***   
+17:47:00,276 DEBUG [SFSWorker:Sys:1] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:47:00,283 DEBUG [bitzero.server.controllers.ExtensionController-1] controllers.ExtensionController - 
+org.eclipse.jetty.server.Server@1fb45cfd - STARTED
+ += qtp1841074911{STARTED,8<=8<=10,i=5,q=0} - STARTED
+ |   +- 249 qtp1841074911-249-selector-ServerConnectorManager@4257e811/0 RUNNABLE @ sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+ |   +- 250 qtp1841074911-250-selector-ServerConnectorManager@4257e811/1 RUNNABLE @ sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+ |   +- 251 qtp1841074911-251-acceptor-0@73db5b5-ServerConnector@9fa5b22{HTTP/1.1}{0.0.0.0:16070} RUNNABLE @ sun.nio.ch.ServerSocketChannelImpl.accept0(Native Method)
+ |   +- 252 qtp1841074911-252 TIMED_WAITING @ sun.misc.Unsafe.park(Native Method) IDLE
+ |   +- 253 qtp1841074911-253 TIMED_WAITING @ sun.misc.Unsafe.park(Native Method) IDLE
+ |   +- 254 qtp1841074911-254 TIMED_WAITING @ sun.misc.Unsafe.park(Native Method) IDLE
+ |   +- 255 qtp1841074911-255 TIMED_WAITING @ sun.misc.Unsafe.park(Native Method) IDLE
+ |   +- 256 qtp1841074911-256 TIMED_WAITING @ sun.misc.Unsafe.park(Native Method) IDLE
+ += org.eclipse.jetty.util.thread.ScheduledExecutorScheduler@1f11fabb - STARTED
+ += ServerConnector@9fa5b22{HTTP/1.1}{0.0.0.0:16070} - STARTED
+ |   +~ org.eclipse.jetty.server.Server@1fb45cfd - STARTED
+ |   +~ qtp1841074911{STARTED,8<=8<=10,i=5,q=0} - STARTED
+ |   +~ org.eclipse.jetty.util.thread.ScheduledExecutorScheduler@1f11fabb - STARTED
+ |   +- org.eclipse.jetty.io.ArrayByteBufferPool@712450da
+ |   += HttpConnectionFactory@7a602b17{HTTP/1.1} - STARTED
+ |   |   +- HttpConfiguration@12176054{32768/8192,8192/8192,https://:0,[]}
+ |   += org.eclipse.jetty.server.ServerConnector$ServerConnectorManager@4257e811 - STARTED
+ |   |   +- org.eclipse.jetty.io.SelectorManager$ManagedSelector@74b16ef keys=0 selected=0 id=0
+ |   |   |   +- org.eclipse.jetty.io.SelectorManager$ManagedSelector.select(SelectorManager.java:596)
+ |   |   |   +- sun.nio.ch.EPollSelectorImpl@36184b15 keys=0
+ |   |   +- org.eclipse.jetty.io.SelectorManager$ManagedSelector@74e10cde keys=0 selected=0 id=1
+ |   |       +- org.eclipse.jetty.io.SelectorManager$ManagedSelector.select(SelectorManager.java:596)
+ |   |       +- sun.nio.ch.EPollSelectorImpl@2250e7f3 keys=0
+ |   +- sun.nio.ch.ServerSocketChannelImpl[/0:0:0:0:0:0:0:0:16070]
+ |   +- qtp1841074911-251-acceptor-0@73db5b5-ServerConnector@9fa5b22{HTTP/1.1}{0.0.0.0:16070}
+ += org.eclipse.jetty.server.handler.HandlerList@2bc290c3[o.e.j.s.h.ContextHandler@695ff1a6{/admin-handle,null,AVAILABLE}, o.e.j.s.h.ContextHandler@38c5217{/change-config,null,AVAILABLE}] - STARTED
+ |   += o.e.j.s.h.ContextHandler@695ff1a6{/admin-handle,null,AVAILABLE} - STARTED
+ |   |   += game.Jetty.handle.AdminCPHandler@3b39ad6a - STARTED
+ |   |   |
+ |   |   +> No ClassLoader
+ |   |   +> org.eclipse.jetty.server.Executor=qtp1841074911{STARTED,8<=8<=10,i=5,q=0}
+ |   += o.e.j.s.h.ContextHandler@38c5217{/change-config,null,AVAILABLE} - STARTED
+ |       += game.Jetty.handle.ChangeConfigCPHandler@494fa6eb - STARTED
+ |       |
+ |       +> No ClassLoader
+ |       +> org.eclipse.jetty.server.Executor=qtp1841074911{STARTED,8<=8<=10,i=5,q=0}
+ |
+ +> sun.misc.Launcher$AppClassLoader@5387f9e0
+     +- file:/var/app/BackendMaster/libs/jackson-annotations-2.4.0.jar
+     +- file:/var/app/BackendMaster/libs/._servlet-api-2.5.jar
+     +- file:/var/app/BackendMaster/libs/._commons-dbcp-1.4.jar
+     +- file:/var/app/BackendMaster/libs/scala-library.jar
+     +- file:/var/app/BackendMaster/libs/._commons-lang3-3.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._json-lib-2.2.3-jdk15.jar
+     +- file:/var/app/BackendMaster/libs/._proxool-0.9.1.jar
+     +- file:/var/app/BackendMaster/libs/httpcore-nio-4.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._json-simple-1.1.1.jar
+     +- file:/var/app/BackendMaster/libs/._wsdl4j.jar
+     +- file:/var/app/BackendMaster/libs/commons-io-1.4.jar
+     +- file:/var/app/BackendMaster/libs/xpp3_min-1.1.4c.jar
+     +- file:/var/app/BackendMaster/libs/dbpool-6.0.jar
+     +- file:/var/app/BackendMaster/libs/httpcore-4.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._jboss-marshalling-1.4.11.Final.jar
+     +- file:/var/app/BackendMaster/libs/._gson-2.9.0.jar
+     +- file:/var/app/BackendMaster/libs/jetty-server-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._dbpool-7.0.jar
+     +- file:/var/app/BackendMaster/libs/._log4j-1.2-api-2.17.2.jar
+     +- file:/var/app/BackendMaster/libs/logs-analysis-app.jar
+     +- file:/var/app/BackendMaster/libs/fb303.jar
+     +- file:/var/app/BackendMaster/libs/gson-2.9.0.jar
+     +- file:/var/app/BackendMaster/libs/._okio-1.15.0.jar
+     +- file:/var/app/BackendMaster/libs/._supercsv.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-security-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/slf4j-api-1.7.5.jar
+     +- file:/var/app/BackendMaster/libs/._mvel2-2.2.0.Final.jar
+     +- file:/var/app/BackendMaster/libs/._libthrift-r917130.jar
+     +- file:/var/app/BackendMaster/libs/axis.jar
+     +- file:/var/app/BackendMaster/libs/log4j-api-2.17.2.jar
+     +- file:/var/app/BackendMaster/libs/._httpmime-4.3.3.jar
+     +- file:/var/app/BackendMaster/libs/jaxrpc.jar
+     +- file:/var/app/BackendMaster/libs/._httpclient-4.3.3.jar
+     +- file:/var/app/BackendMaster/libs/._joda-time-2.2.jar
+     +- file:/var/app/BackendMaster/libs/._commons-codec-1.6.jar
+     +- file:/var/app/BackendMaster/libs/._logs-backup-app.jar
+     +- file:/var/app/BackendMaster/libs/npn-boot-8.1.2.v20120308.jar
+     +- file:/var/app/BackendMaster/libs/commons-httpclient-3.1.jar
+     +- file:/var/app/BackendMaster/libs/._jboss-marshalling-river-1.4.11.Final.jar
+     +- file:/var/app/BackendMaster/libs/commons-logging-1.2.jar
+     +- file:/var/app/BackendMaster/libs/._bcprov-jdk16-1.44.jar
+     +- file:/var/app/BackendMaster/libs/._httpcore-4.3.2.jar
+     +- file:/var/app/BackendMaster/libs/mongodb-driver-3.2.2.jar
+     +- file:/var/app/BackendMaster/libs/apache-mime4j-0.6.jar
+     +- file:/var/app/BackendMaster/libs/._jython.jar
+     +- file:/var/app/BackendMaster/libs/._imap.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-http-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/protobuf-java-2.6.1.jar
+     +- file:/var/app/BackendMaster/libs/._java_websocket.jar
+     +- file:/var/app/BackendMaster/libs/._mailapi.jar
+     +- file:/var/app/BackendMaster/libs/._commons-lang-2.4.jar
+     +- file:/var/app/BackendMaster/libs/._json-simple-1.1.jar
+     +- file:/var/app/BackendMaster/libs/spymemcached.jar
+     +- file:/var/app/BackendMaster/libs/bcprov-ext-jdk16-1.46.jar
+     +- file:/var/app/BackendMaster/libs/pop3.jar
+     +- file:/var/app/BackendMaster/libs/._commons-vfs-1.0.jar
+     +- file:/var/app/BackendMaster/libs/._async-http-client-2.1.2.jar
+     +- file:/var/app/BackendMaster/libs/._spymemcached-2.12.1-sources.jar
+     +- file:/var/app/BackendMaster/libs/._memcached-2.5.jar
+     +- file:/var/app/BackendMaster/libs/._npn-api-1.1.1.v20141010.jar
+     +- file:/var/app/BackendMaster/libs/._slf4j-log4j12-1.7.5.jar
+     +- file:/var/app/BackendMaster/libs/supercsv.jar
+     +- file:/var/app/BackendMaster/libs/npn-api-1.1.1.v20141010.jar
+     +- file:/var/app/BackendMaster/libs/org.osgi.core-6.0.0.jar
+     +- file:/var/app/BackendMaster/libs/._smtp.jar
+     +- file:/var/app/BackendMaster/libs/servlet-api-3.0-alpha-1.jar
+     +- file:/var/app/BackendMaster/libs/jsf-api.jar
+     +- file:/var/app/BackendMaster/libs/._axis.jar
+     +- file:/var/app/BackendMaster/libs/jetty-http-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._sigar.jar
+     +- file:/var/app/BackendMaster/libs/mysql-connector-java-5.1.47.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-server-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/commons-beanutils-1.7.0.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-util-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/async-http-client-2.1.2.jar
+     +- file:/var/app/BackendMaster/libs/._log4j-core-2.17.2.jar
+     +- file:/var/app/BackendMaster/libs/bcprov-jdk15on-1.54.jar
+     +- file:/var/app/BackendMaster/libs/log4j-core-2.17.2.jar
+     +- file:/var/app/BackendMaster/libs/._spymemcached.jar
+     +- file:/var/app/BackendMaster/libs/commons-pool-1.5.5.jar
+     +- file:/var/app/BackendMaster/libs/jedis-2.0.0.jar
+     +- file:/var/app/BackendMaster/libs/._jmx-util-1.2.3.jar
+     +- file:/var/app/BackendMaster/libs/json-simple-1.1.jar
+     +- file:/var/app/BackendMaster/libs/json-lib-2.2.3-jdk15.jar
+     +- file:/var/app/BackendMaster/libs/jetty-security-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._commons-logging-1.1.3.jar
+     +- file:/var/app/BackendMaster/libs/json-20090211.jar
+     +- file:/var/app/BackendMaster/libs/jackson-core-2.4.1.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-io-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._fb303.jar
+     +- file:/var/app/BackendMaster/libs/._joda-time-1.6.jar
+     +- file:/var/app/BackendMaster/libs/._saaj.jar
+     +- file:/var/app/BackendMaster/libs/memcached-2.5.jar
+     +- file:/var/app/BackendMaster/libs/boot.jar
+     +- file:/var/app/BackendMaster/libs/._proxool-cglib.jar
+     +- file:/var/app/BackendMaster/libs/commons-discovery-0.2.jar
+     +- file:/var/app/BackendMaster/libs/libthrift-r917130.jar
+     +- file:/var/app/BackendMaster/libs/httpclient-4.3.3.jar
+     +- file:/var/app/BackendMaster/libs/._jackson-annotations-2.4.0.jar
+     +- file:/var/app/BackendMaster/libs/okhttp-3.12.10.jar
+     +- file:/var/app/BackendMaster/libs/._log4j-api-2.17.2.jar
+     +- file:/var/app/BackendMaster/libs/._httpcore-4.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._jtds-1.2.5.jar
+     +- file:/var/app/BackendMaster/libs/joda-time-2.2.jar
+     +- file:/var/app/BackendMaster/libs/commons-logging-1.1.3.jar
+     +- file:/var/app/BackendMaster/libs/._jboss-logging-3.3.0.Final.jar
+     +- file:/var/app/BackendMaster/libs/wrapper.jar
+     +- file:/var/app/BackendMaster/libs/._bcprov-jdk15on-155.jar
+     +- file:/var/app/BackendMaster/libs/._commons-discovery-0.2.jar
+     +- file:/var/app/BackendMaster/libs/._terracotta-api-1.1.1.jar
+     +- file:/var/app/BackendMaster/libs/._bcmail-jdk16-1.46.jar
+     +- file:/var/app/BackendMaster/libs/._slf4j-api-1.7.5.jar
+     +- file:/var/app/BackendMaster/libs/okio-1.15.0.jar
+     +- file:/var/app/BackendMaster/libs/._mysql-connector-java-5.1.47.jar
+     +- file:/var/app/BackendMaster/libs/jettison.jar
+     +- file:/var/app/BackendMaster/libs/rabbitmq-client.jar
+     +- file:/var/app/BackendMaster/libs/saaj.jar
+     +- file:/var/app/BackendMaster/libs/ezmorph-1.0.6.jar
+     +- file:/var/app/BackendMaster/libs/cage-1.0.jar
+     +- file:/var/app/BackendMaster/libs/java-telegram-bot-api-5.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._mail.jar
+     +- file:/var/app/BackendMaster/libs/commons-dbcp-1.4.jar
+     +- file:/var/app/BackendMaster/libs/hazelcast-client-3.6.4.jar
+     +- file:/var/app/BackendMaster/libs/._mongo-java-driver-3.3.0.jar
+     +- file:/var/app/BackendMaster/libs/log4j-1.2.15.jar
+     +- file:/var/app/BackendMaster/libs/log4j-1.2.17.jar
+     +- file:/var/app/BackendMaster/libs/._commons-io-1.4.jar
+     +- file:/var/app/BackendMaster/libs/._boot.jar
+     +- file:/var/app/BackendMaster/libs/._ezmorph-1.0.6.jar
+     +- file:/var/app/BackendMaster/libs/._logs-analysis-app.jar
+     +- file:/var/app/BackendMaster/libs/bcprov-jdk15on-155.jar
+     +- file:/var/app/BackendMaster/libs/._pop3.jar
+     +- file:/var/app/BackendMaster/libs/commons-collections-3.2.1.jar
+     +- file:/var/app/BackendMaster/libs/httpcore-4.3.2.jar
+     +- file:/var/app/BackendMaster/libs/._scribe.jar
+     +- file:/var/app/BackendMaster/libs/mail.jar
+     +- file:/var/app/BackendMaster/libs/._org.osgi.core-6.0.0.jar
+     +- file:/var/app/BackendMaster/libs/javax.servlet-api-3.0.1.jar
+     +- file:/var/app/BackendMaster/libs/dbpool-7.0.jar
+     +- file:/var/app/BackendMaster/libs/._npn-boot-8.1.2.v20120308.jar
+     +- file:/var/app/BackendMaster/libs/._jsf-api.jar
+     +- file:/var/app/BackendMaster/libs/commons-fileupload-1.2.jar
+     +- file:/var/app/BackendMaster/libs/mvel2-2.2.0.Final.jar
+     +- file:/var/app/BackendMaster/libs/._commons-cli-1.1.jar
+     +- file:/var/app/BackendMaster/libs/jetty-util-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._xstream-1.3.1.jar
+     +- file:/var/app/BackendMaster/libs/._commons-beanutils-1.7.0.jar
+     +- file:/var/app/BackendMaster/libs/._rabbitmq-client.jar
+     +- file:/var/app/BackendMaster/libs/._log4j-1.2.17.jar
+     +- file:/var/app/BackendMaster/libs/slf4j-log4j12-1.7.5.jar
+     +- file:/var/app/BackendMaster/libs/deadlock.jar
+     +- file:/var/app/BackendMaster/libs/jetty-servlet-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/imap.jar
+     +- file:/var/app/BackendMaster/libs/servlet-api-2.5.jar
+     +- file:/var/app/BackendMaster/libs/tomcat-jni-8.5.3.jar
+     +- file:/var/app/BackendMaster/libs/commons-lang-2.4.jar
+     +- file:/var/app/BackendMaster/libs/httpmime-4.3.3.jar
+     +- file:/var/app/BackendMaster/libs/._hsqldb.jar
+     +- file:/var/app/BackendMaster/libs/._httpclient-cache-4.3.3.jar
+     +- file:/var/app/BackendMaster/libs/spymemcached-2.12.1.jar
+     +- file:/var/app/BackendMaster/libs/._commons-logging.jar
+     +- file:/var/app/BackendMaster/libs/logging-interceptor-3.12.10.jar
+     +- file:/var/app/BackendMaster/libs/couchbase-client.jar
+     +- file:/var/app/BackendMaster/libs/commons-logging.jar
+     +- file:/var/app/BackendMaster/libs/json-simple-1.1.1.jar
+     +- file:/var/app/BackendMaster/libs/joda-time-1.6.jar
+     +- file:/var/app/BackendMaster/libs/jetty-io-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-servlet-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/commons-codec-1.6.jar
+     +- file:/var/app/BackendMaster/libs/jtds-1.2.5.jar
+     +- file:/var/app/BackendMaster/libs/._jedis-2.0.0.jar
+     +- file:/var/app/BackendMaster/libs/smtp.jar
+     +- file:/var/app/BackendMaster/libs/hazelcast-3.6.4.jar
+     +- file:/var/app/BackendMaster/libs/netty-3.10.5.Final.jar
+     +- file:/var/app/BackendMaster/libs/bcmail-jdk16-1.46.jar
+     +- file:/var/app/BackendMaster/libs/._commons-pool-1.5.5.jar
+     +- file:/var/app/BackendMaster/libs/jboss-marshalling-river-1.4.11.Final.jar
+     +- file:/var/app/BackendMaster/libs/._json.jar
+     +- file:/var/app/BackendMaster/libs/jboss-logging-3.3.0.Final.jar
+     +- file:/var/app/BackendMaster/libs/._logging-interceptor-3.12.10.jar
+     +- file:/var/app/BackendMaster/libs/mailapi.jar
+     +- file:/var/app/BackendMaster/libs/._jackson-core-2.4.1.jar
+     +- file:/var/app/BackendMaster/libs/._tomcat-catalina-8.5.3.jar
+     +- file:/var/app/BackendMaster/libs/._protobuf-java-2.6.1.jar
+     +- file:/var/app/BackendMaster/libs/._wrapper.jar
+     +- file:/var/app/BackendMaster/libs/httpclient-4.0.3.jar
+     +- file:/var/app/BackendMaster/libs/js.jar
+     +- file:/var/app/BackendMaster/libs/jmx-util-1.2.3.jar
+     +- file:/var/app/BackendMaster/libs/._mongodb-driver-3.2.2.jar
+     +- file:/var/app/BackendMaster/libs/log4j-1.2-api-2.17.2.jar
+     +- file:/var/app/BackendMaster/libs/jboss-marshalling-1.4.11.Final.jar
+     +- file:/var/app/BackendMaster/libs/jackson-databind-2.4.1.jar
+     +- file:/var/app/BackendMaster/libs/commons-vfs-1.0.jar
+     +- file:/var/app/BackendMaster/libs/terracotta-api-1.1.1.jar
+     +- file:/var/app/BackendMaster/libs/._jettison.jar
+     +- file:/var/app/BackendMaster/libs/._httpcore-nio-4.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._deadlock.jar
+     +- file:/var/app/BackendMaster/libs/httpclient-cache-4.3.3.jar
+     +- file:/var/app/BackendMaster/libs/proxool-cglib.jar
+     +- file:/var/app/BackendMaster/libs/._hazelcast-3.6.4.jar
+     +- file:/var/app/BackendMaster/libs/junit-4.8.2.jar
+     +- file:/var/app/BackendMaster/libs/jython.jar
+     +- file:/var/app/BackendMaster/libs/._jetty-servlets-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._xpp3_min-1.1.4c.jar
+     +- file:/var/app/BackendMaster/libs/._commons-fileupload-1.2.jar
+     +- file:/var/app/BackendMaster/libs/commons-cli-1.1.jar
+     +- file:/var/app/BackendMaster/libs/._okhttp-3.12.10.jar
+     +- file:/var/app/BackendMaster/libs/commons-lang3-3.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._hazelcast-client-3.6.4.jar
+     +- file:/var/app/BackendMaster/libs/java-client-2.3.3.jar
+     +- file:/var/app/BackendMaster/libs/sigar.jar
+     +- file:/var/app/BackendMaster/libs/mongo-java-driver-3.3.0.jar
+     +- file:/var/app/BackendMaster/libs/._log4j-1.2.15.jar
+     +- file:/var/app/BackendMaster/libs/._js.jar
+     +- file:/var/app/BackendMaster/libs/._scala-library.jar
+     +- file:/var/app/BackendMaster/libs/commons-logging-1.1.1.jar
+     +- file:/var/app/BackendMaster/libs/._apache-mime4j-0.6.jar
+     +- file:/var/app/BackendMaster/libs/spymemcached-2.12.1-sources.jar
+     +- file:/var/app/BackendMaster/libs/java_websocket.jar
+     +- file:/var/app/BackendMaster/libs/scribe.jar
+     +- file:/var/app/BackendMaster/libs/._commons-collections-3.2.1.jar
+     +- file:/var/app/BackendMaster/libs/._dbpool-6.0.jar
+     +- file:/var/app/BackendMaster/libs/tomcat-catalina-8.5.3.jar
+     +- file:/var/app/BackendMaster/libs/._jackson-databind-2.4.1.jar
+     +- file:/var/app/BackendMaster/libs/json.jar
+     +- file:/var/app/BackendMaster/libs/._org.osgi.service.log-1.3.0.jar
+     +- file:/var/app/BackendMaster/libs/._bcprov-ext-jdk16-1.46.jar
+     +- file:/var/app/BackendMaster/libs/org.osgi.service.log-1.3.0.jar
+     +- file:/var/app/BackendMaster/libs/._bcprov-jdk15on-1.54.jar
+     +- file:/var/app/BackendMaster/libs/xstream-1.3.1.jar
+     +- file:/var/app/BackendMaster/libs/._javax.servlet-api-3.0.1.jar
+     +- file:/var/app/BackendMaster/libs/._netty-3.10.5.Final.jar
+     +- file:/var/app/BackendMaster/libs/._java-telegram-bot-api-5.0.1.jar
+     +- file:/var/app/BackendMaster/libs/bcprov-jdk16-1.44.jar
+     +- file:/var/app/BackendMaster/libs/._commons-logging-1.2.jar
+     +- file:/var/app/BackendMaster/libs/hsqldb.jar
+     +- file:/var/app/BackendMaster/libs/._cage-1.0.jar
+     +- file:/var/app/BackendMaster/libs/proxool-0.9.1.jar
+     +- file:/var/app/BackendMaster/libs/._java-client-2.3.3.jar
+     +- file:/var/app/BackendMaster/libs/._spymemcached-2.12.1.jar
+     +- file:/var/app/BackendMaster/libs/jetty-servlets-9.2.10.v20150310.jar
+     +- file:/var/app/BackendMaster/libs/._tomcat-jni-8.5.3.jar
+     +- file:/var/app/BackendMaster/libs/._junit-4.8.2.jar
+     +- file:/var/app/BackendMaster/libs/._httpclient-4.0.3.jar
+     +- file:/var/app/BackendMaster/libs/logs-backup-app.jar
+     +- file:/var/app/BackendMaster/libs/._jaxrpc.jar
+     +- file:/var/app/BackendMaster/libs/._couchbase-client.jar
+     +- file:/var/app/BackendMaster/libs/._servlet-api-3.0-alpha-1.jar
+     +- file:/var/app/BackendMaster/libs/wsdl4j.jar
+     +- file:/var/app/BackendMaster/libs/._commons-logging-1.1.1.jar
+     +- file:/var/app/BackendMaster/libs/._json-20090211.jar
+     +- file:/var/app/BackendMaster/libs/._commons-httpclient-3.1.jar
+     +- file:/var/app/BackendMaster/game/slot/libs/VbeeCommon.jar
+     +- file:/var/app/BackendMaster/game/slot/libs/VinPlayDAL.jar
+     +- file:/var/app/BackendMaster/game/slot/libs/VinPlayUserCore.jar
+     +- file:/var/app/BackendMaster/game/slot/libs/VinPlayCardLib.jar
+     +- file:/var/app/BackendMaster/game/slot/libs/BitZeroMinigame-1.0-SNAPSHOT.jar
+     +- file:/var/app/BackendMaster/game/slot/build/libs/SlotMachine.jar
+     +- sun.misc.Launcher$ExtClassLoader@33496d2b
+test
+17:47:17,767 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:47:17,767 INFO  [New I/O worker #1] sessions.DefaultSessionManager - Session removed: 
+17:47:20,203 DEBUG [SFSWorker:Sys:2] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:47:20,204 DEBUG [bitzero.server.controllers.ExtensionController-2] controllers.ExtensionController - 
+17:47:37,779 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:47:37,780 INFO  [New I/O worker #2] sessions.DefaultSessionManager - Session removed: 
+17:47:40,186 DEBUG [SFSWorker:Sys:3] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:47:40,187 DEBUG [bitzero.server.controllers.ExtensionController-3] controllers.ExtensionController - 
+17:47:57,790 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:47:57,790 INFO  [New I/O worker #3] sessions.DefaultSessionManager - Session removed: 
+17:48:00,195 DEBUG [SFSWorker:Sys:4] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:48:00,199 DEBUG [bitzero.server.controllers.ExtensionController-4] controllers.ExtensionController - 
+17:48:17,800 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:48:17,801 INFO  [New I/O worker #4] sessions.DefaultSessionManager - Session removed: 
+17:48:20,203 DEBUG [SFSWorker:Sys:5] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:48:20,203 DEBUG [bitzero.server.controllers.ExtensionController-5] controllers.ExtensionController - 
+17:48:37,560 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:48:37,560 INFO  [New I/O worker #5] sessions.DefaultSessionManager - Session removed: 
+17:48:40,198 DEBUG [SFSWorker:Sys:6] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:48:40,198 DEBUG [bitzero.server.controllers.ExtensionController-6] controllers.ExtensionController - 
+17:48:57,568 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:48:57,568 INFO  [New I/O worker #1] sessions.DefaultSessionManager - Session removed: 
+17:49:00,198 DEBUG [SFSWorker:Sys:7] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:49:00,198 DEBUG [bitzero.server.controllers.ExtensionController-7] controllers.ExtensionController - 
+17:49:17,577 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:49:17,577 INFO  [New I/O worker #2] sessions.DefaultSessionManager - Session removed: 
+17:49:20,191 DEBUG [SFSWorker:Sys:8] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:49:20,191 DEBUG [bitzero.server.controllers.ExtensionController-8] controllers.ExtensionController - 
+17:49:37,585 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:49:37,585 INFO  [New I/O worker #3] sessions.DefaultSessionManager - Session removed: 
+17:49:40,192 DEBUG [SFSWorker:Sys:1] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:49:40,193 DEBUG [bitzero.server.controllers.ExtensionController-9] controllers.ExtensionController - 
+17:49:57,593 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:49:57,593 INFO  [New I/O worker #4] sessions.DefaultSessionManager - Session removed: 
+17:50:00,197 DEBUG [SFSWorker:Sys:2] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:50:00,198 DEBUG [bitzero.server.controllers.ExtensionController-10] controllers.ExtensionController - 
+17:50:17,601 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:50:17,601 INFO  [New I/O worker #5] sessions.DefaultSessionManager - Session removed: 
+17:50:20,188 DEBUG [SFSWorker:Sys:3] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:50:20,188 DEBUG [bitzero.server.controllers.ExtensionController-11] controllers.ExtensionController - 
+test
+17:50:37,608 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:50:37,609 INFO  [New I/O worker #1] sessions.DefaultSessionManager - Session removed: 
+17:50:40,324 DEBUG [SFSWorker:Sys:4] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:50:40,324 DEBUG [bitzero.server.controllers.ExtensionController-12] controllers.ExtensionController - 
+17:50:57,616 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:50:57,616 INFO  [New I/O worker #2] sessions.DefaultSessionManager - Session removed: 
+17:51:00,206 DEBUG [SFSWorker:Sys:5] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:51:00,206 DEBUG [bitzero.server.controllers.ExtensionController-13] controllers.ExtensionController - 
+17:51:17,624 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:51:17,625 INFO  [New I/O worker #3] sessions.DefaultSessionManager - Session removed: 
+17:51:20,327 DEBUG [SFSWorker:Sys:6] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:51:20,327 DEBUG [bitzero.server.controllers.ExtensionController-14] controllers.ExtensionController - 
+17:51:37,632 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:51:37,632 INFO  [New I/O worker #4] sessions.DefaultSessionManager - Session removed: 
+17:51:40,333 DEBUG [SFSWorker:Sys:7] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:51:40,333 DEBUG [bitzero.server.controllers.ExtensionController-15] controllers.ExtensionController - 
+17:51:57,640 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:51:57,641 INFO  [New I/O worker #5] sessions.DefaultSessionManager - Session removed: 
+17:52:00,321 DEBUG [SFSWorker:Sys:8] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:52:00,321 DEBUG [bitzero.server.controllers.ExtensionController-16] controllers.ExtensionController - 
+17:52:05,890 DEBUG [pool-2-thread-7] debug -  reload config
+17:52:17,655 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:52:17,655 INFO  [New I/O worker #1] sessions.DefaultSessionManager - Session removed: 
+17:52:20,311 DEBUG [SFSWorker:Sys:1] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:52:20,311 DEBUG [bitzero.server.controllers.ExtensionController-17] controllers.ExtensionController - 
+17:52:37,662 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:52:37,663 INFO  [New I/O worker #2] sessions.DefaultSessionManager - Session removed: 
+17:52:40,340 DEBUG [SFSWorker:Sys:2] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:52:40,340 DEBUG [bitzero.server.controllers.ExtensionController-18] controllers.ExtensionController - 
+17:52:57,671 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:52:57,671 INFO  [New I/O worker #3] sessions.DefaultSessionManager - Session removed: 
+17:53:00,339 DEBUG [SFSWorker:Sys:3] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:53:00,339 DEBUG [bitzero.server.controllers.ExtensionController-19] controllers.ExtensionController - 
+17:53:17,679 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:53:17,680 INFO  [New I/O worker #4] sessions.DefaultSessionManager - Session removed: 
+17:53:20,336 DEBUG [SFSWorker:Sys:4] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:53:20,337 DEBUG [bitzero.server.controllers.ExtensionController-20] controllers.ExtensionController - 
+17:53:37,689 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:53:37,690 INFO  [New I/O worker #5] sessions.DefaultSessionManager - Session removed: 
+17:53:40,182 DEBUG [SFSWorker:Sys:5] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:53:40,183 DEBUG [bitzero.server.controllers.ExtensionController-21] controllers.ExtensionController - 
+17:53:57,697 DEBUG [Scheduler1-thread-1] sessions.DefaultSessionManager - Removed idle session: 
+17:53:57,697 INFO  [New I/O worker #1] sessions.DefaultSessionManager - Session removed: 
+17:54:00,335 DEBUG [SFSWorker:Sys:6] websocket.WebSocketProtocolCodec - java.nio.HeapByteBuffer[pos=0 lim=54 cap=54]
+17:54:00,335 DEBUG [bitzero.server.controllers.ExtensionController-22] controllers.ExtensionController - 

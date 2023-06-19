@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+group 'com.vingame'
+version ''
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+javadoc.options.encoding = 'UTF-8'
+sourceCompatibility = 1.8
+//buildDir = "../../../dist/build"
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile project(':BitzeroAll')
+	implementation 'com.google.code.gson:gson:2.9.0'
+    compile project(':CardCoreLib')
+    compile fileTree(include: ['*.jar'], dir: '../../libs')
+}
+task copyJar(type: Copy) {
+    from configurations.compile {
+        include  'BitzeroAll*.jar',   "CardCoreLib*.jar", "VbeeCommon*.jar"
+    }
+    into 'libs/'
+}
+build.dependsOn copyJar
+
